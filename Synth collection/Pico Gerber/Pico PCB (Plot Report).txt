@@ -1,0 +1,262 @@
+Plot Report
+-----------
+
+Report Written:     Monday, December 20, 2021
+Design Path:        C:\Users\Rory\Documents\Allen Synthesis Website\Modules\EuroPi\HUGE 8HP, Screen\Hardware\PCB\Pico PCB.pcb
+Design Title:       
+Created:            09/09/2021 13:31:09
+Last Saved:         20/12/2021 13:34:49
+Editing Time:       5137 min
+Units:              mm (precision 1)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute mm.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+
+Drill Settings
+==============
+
+    Excellon Format 1
+    Format 3.5 absolute in mm.
+    Zero suppression None
+
+
+
+Plots Output
+============
+
+    Plot Job: "C:\Users\Rory\Documents\Allen Synthesis Website\Modules\EuroPi\HUGE 8HP, Screen\Hardware\PCB\Pico PCB.mop"
+
+
+Gerber Output
+=============
+
+C:\Users\Rory\Documents\Allen Synthesis Website\Modules\EuroPi\HUGE 8HP, Screen\Hardware\PCB\Pico Gerber\Pico PCB - Top Copper.gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (mm)
+    ----------------------
+    D13    Round 0.305
+    D14    Round 0.254
+    D15    Round 0.500
+    D17    Round 1.600
+    D18    Round 1.524
+    D19    Round 2.000
+    D88    Square 2.000
+    D129   Round 3.200
+    D137   Round 1.800
+
+Gerber Output
+=============
+
+C:\Users\Rory\Documents\Allen Synthesis Website\Modules\EuroPi\HUGE 8HP, Screen\Hardware\PCB\Pico Gerber\Pico PCB - Top Copper (Resist).gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (mm)
+    ----------------------
+    D71    Round 1.778
+    D20    Round 2.254
+    D90    Square 2.254
+    D130   Round 3.454
+    D138   Round 2.054
+
+Gerber Output
+=============
+
+C:\Users\Rory\Documents\Allen Synthesis Website\Modules\EuroPi\HUGE 8HP, Screen\Hardware\PCB\Pico Gerber\Pico PCB - Top Copper (Paste).gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (mm)
+    ---------------------
+
+Gerber Output
+=============
+
+C:\Users\Rory\Documents\Allen Synthesis Website\Modules\EuroPi\HUGE 8HP, Screen\Hardware\PCB\Pico Gerber\Pico PCB - Top Silkscreen.gbr
+
+    Layers:
+    ------------------
+    Top Silkscreen
+
+    D-Code Shape  (mm)
+    ---------------------
+    D10    Round 0.127
+    D13    Round 0.305
+    D14    Round 0.254
+    D87    Round 0.025
+
+Gerber Output
+=============
+
+C:\Users\Rory\Documents\Allen Synthesis Website\Modules\EuroPi\HUGE 8HP, Screen\Hardware\PCB\Pico Gerber\Pico PCB - Documentation.gbr
+
+    Layers:
+    -----------------
+    Documentation
+
+    D-Code Shape  (mm)
+    ---------------------
+    D122   Round 0.050
+
+Gerber Output
+=============
+
+C:\Users\Rory\Documents\Allen Synthesis Website\Modules\EuroPi\HUGE 8HP, Screen\Hardware\PCB\Pico Gerber\Pico PCB - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (mm)
+    ----------------------
+    D15    Round 0.500
+    D17    Round 1.600
+    D18    Round 1.524
+    D19    Round 2.000
+    D88    Square 2.000
+    D129   Round 3.200
+    D137   Round 1.800
+
+Gerber Output
+=============
+
+C:\Users\Rory\Documents\Allen Synthesis Website\Modules\EuroPi\HUGE 8HP, Screen\Hardware\PCB\Pico Gerber\Pico PCB - Bottom Copper (Resist).gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (mm)
+    ----------------------
+    D71    Round 1.778
+    D20    Round 2.254
+    D90    Square 2.254
+    D130   Round 3.454
+    D138   Round 2.054
+
+Gerber Output
+=============
+
+C:\Users\Rory\Documents\Allen Synthesis Website\Modules\EuroPi\HUGE 8HP, Screen\Hardware\PCB\Pico Gerber\Pico PCB - Bottom Copper (Paste).gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (mm)
+    ---------------------
+
+Gerber Output
+=============
+
+C:\Users\Rory\Documents\Allen Synthesis Website\Modules\EuroPi\HUGE 8HP, Screen\Hardware\PCB\Pico Gerber\Pico PCB - Bottom Silkscreen.gbr
+
+    Layers:
+    ---------------------
+    Bottom Silkscreen
+
+    D-Code Shape  (mm)
+    ---------------------
+    D10    Round 0.127
+    D13    Round 0.305
+    D14    Round 0.254
+
+NC Drill Output
+===============
+
+C:\Users\Rory\Documents\Allen Synthesis Website\Modules\EuroPi\HUGE 8HP, Screen\Hardware\PCB\Pico Gerber\Pico PCB - Drill Data - [Through Hole].drl
+
+    Output:
+    ---------------------------
+    Plated Round Drill Holes
+    Plated Slots
+
+    Tool  Size       Count   ID
+    ----------------------------------
+    T001  0.80000 mm 38    W
+    T002  0.81280 mm 15    Y
+    T003  0.88900 mm 43    O
+    T004  1.00000 mm 102   A
+    T005  1.10000 mm 40    C
+    T006  3.00000 mm 1     D
+    ----------------------------------
+    Total            239
+    ----------------------------------
+
+C:\Users\Rory\Documents\Allen Synthesis Website\Modules\EuroPi\HUGE 8HP, Screen\Hardware\PCB\Pico Gerber\Pico PCB - Drill Data - [Through Hole] (Unplated).drl
+
+    Output:
+    -----------------------------
+    Unplated Round Drill Holes
+    Unplated Slots
+
+    Tool  Size Count   ID
+    ----------------------------
+    ----------------------------
+    Total      0
+    ----------------------------
+
+
+Gerber Output
+=============
+
+C:\Users\Rory\Documents\Allen Synthesis Website\Modules\EuroPi\HUGE 8HP, Screen\Hardware\PCB\Pico Gerber\Pico PCB - Drill Ident Drawing - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+
+Drill Ident Drawing
+===================
+
+    Drill Plated Size  Shape ID
+    ------------------------------------
+    1.000 Y      2.540 Round A
+    1.100 Y      2.540 Round C
+    3.000 Y      2.540 Round D
+    0.889 Y      2.540 Round O
+    0.800 Y      2.540 Round W
+    0.813 Y      2.540 Round Y
+
+    D-Code Shape  (mm)
+    ---------------------
+    D10    Round 0.127
+    D12    Round 2.540
+
+Gerber Output
+=============
+
+C:\Users\Rory\Documents\Allen Synthesis Website\Modules\EuroPi\HUGE 8HP, Screen\Hardware\PCB\Pico Gerber\Pico PCB - Outline.gbr
+
+    Layers:
+    ------------------
+    Board Outlines
+
+    D-Code Shape  (mm)
+    ---------------------
+    D13    Round 0.305
+
+End Of Report.
